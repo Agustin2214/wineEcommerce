@@ -12,7 +12,7 @@
 
 
 ## Demo
-Podes ver una demo de la pagina en el siguiente enlace : <!-- https://wine-ecommercew.vercel.app/ -->
+Podes ver una demo de la pagina en el siguiente enlace :  https://wine-ecommercew.vercel.app/ 
 
 
 ## Site
